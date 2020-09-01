@@ -1,7 +1,7 @@
 # 蒋广宇
 
 ### 宿舍门锁改造
-![门锁A](https://github.com/DragonRollGH/dragonrollgh.github.io/blob/master/images/%E9%97%A8%E9%94%81B.jpg)
+![门锁A](images/%E9%97%A8%E9%94%81B.jpg)
 
 ![门锁B](https://github.com/DragonRollGH/dragonrollgh.github.io/blob/master/images/%E9%97%A8%E9%94%81A.jpg)
 
